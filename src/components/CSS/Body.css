@@ -1,0 +1,9 @@
+button{
+    align-self: center;
+     background-color:rgb(77, 255, 0);
+     text-decoration-color: rgb(155, 148, 138);
+}
+text{
+    font-style:italic;
+    font-variant: inherit;
+}
